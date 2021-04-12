@@ -31,16 +31,25 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://coshh.github.io/docs/post-4/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <description>Ejemplos de familias de productos desarrolladas en grupo.</description>
     </item>
     
     <item>
-      <title>Encargo 5 - Elección de Familia</title>
+      <title>Encargo 4.5 - Elección de Familia</title>
+      <link>https://coshh.github.io/docs/post-4.5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-4.5/</guid>
+      <description>Introducción a la familia de objetos elegida.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 5 - Diseño Personal</title>
       <link>https://coshh.github.io/docs/post-5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://coshh.github.io/docs/post-5/</guid>
-      <description>Introducción a la familia de objetos elegida.</description>
+      <description>Diseño personal en formato post</description>
     </item>
     
   </channel>
