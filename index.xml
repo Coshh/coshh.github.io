@@ -72,20 +72,74 @@
     
     <item>
       <title>2-0 - Entrevistas</title>
-      <link>https://coshh.github.io/docs/post-2-1/</link>
+      <link>https://coshh.github.io/docs/post-2-0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://coshh.github.io/docs/post-2-1/</guid>
+      <guid>https://coshh.github.io/docs/post-2-0/</guid>
       <description>Entrevistas a referentes relacionados al mundo de la cocina.</description>
     </item>
     
     <item>
       <title>2-1 - Fotogrametría</title>
+      <link>https://coshh.github.io/docs/post-2-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-2-1/</guid>
+      <description>Virtualización 3D de un objeto físico</description>
+    </item>
+    
+    <item>
+      <title>2-2 - Tutoriales Fusion</title>
       <link>https://coshh.github.io/docs/post-2-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://coshh.github.io/docs/post-2-2/</guid>
-      <description>Virtualización 3D de un objeto físico</description>
+      <description>Completación de tutoriales en Fusion</description>
+    </item>
+    
+    <item>
+      <title>2-3 - Folding</title>
+      <link>https://coshh.github.io/docs/post-2-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-2-3/</guid>
+      <description>Creación de moldes en GH y físicos</description>
+    </item>
+    
+    <item>
+      <title>2-4 - Primera Propuesta</title>
+      <link>https://coshh.github.io/docs/post-2-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-2-4/</guid>
+      <description>Preparación y forma</description>
+    </item>
+    
+    <item>
+      <title>2-5 - Preparación final y PDF Personal</title>
+      <link>https://coshh.github.io/docs/post-2-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-2-5/</guid>
+      <description>Preparación final y PDF Personal</description>
+    </item>
+    
+    <item>
+      <title>2-6 - Presentación Final Grupal</title>
+      <link>https://coshh.github.io/docs/post-2-6/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-2-6/</guid>
+      <description>Presentación final grupal para la Unidad 2</description>
+    </item>
+    
+    <item>
+      <title>3-0 - Inicio Unidad 3</title>
+      <link>https://coshh.github.io/docs/post-3-0/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://coshh.github.io/docs/post-3-0/</guid>
+      <description>Conceptualización unidad 3</description>
     </item>
     
   </channel>
